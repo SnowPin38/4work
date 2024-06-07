@@ -1,2 +1,2 @@
 # 4work
-<img src="bg.png">
+<img src="grid.png">
